@@ -1,0 +1,13 @@
+.corMenu {
+  background: linear-gradient(to right, #ffffff, #dcdddbb6, #ffffff);
+}
+
+.corJT {
+  background: linear-gradient(to right, #ffffff, #dcdddbb6, #ffffff);
+}
+
+.imgLogo {
+  width: 40px;
+  margin-left: 5%;
+  justify-content: inherit;
+}
